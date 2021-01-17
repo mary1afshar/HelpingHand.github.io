@@ -1,6 +1,6 @@
 # helping-hand
 
-#helping-hand.tech
+## http://helping-hand.tech/
 
 
 ## Inspiration
